@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fusman-rizwan&psig=AOvVaw3JxTUAyDbgpRR4g0ubc1Jg&ust=1721550767840000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDB3cGatYcDFQAAAAAdAAAAABAQ" alt="gif.png">
+<img src="https://camo.githubusercontent.com/8e61cad30a03cd0939480a1705ee45e5e672b9e2db42b2747a772f2756911058/68747470733a2f2f676c6f62616c2e646973636f757273652d63646e2e636f6d2f627573696e657373362f75706c6f6164732f636f64656f7267666f72756d2f6f726967696e616c2f32582f352f353835306130383831333634383535356633346332396265613762366431646531356630313635352e676966" alt="gif.png">
 <h1 align="center">Hi 👋, I'm ︎꧁☆❤️❀ȺƞสƞᵈṪ𝖗𝗂𝖕สтⲏ𝗂❀❤️☆꧂</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
