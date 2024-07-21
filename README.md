@@ -48,7 +48,7 @@
     <h2 align="center">⚡ 🐍 My Contributions 🐍 ⚡</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Anand12T/Fork/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
@@ -82,5 +82,6 @@
   <h2 align="center">⚡ Support ⚡</h2>
   <br>
   <a href="https://buymeacoffee.com/anandtripathi" target='_blank'><img  src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' height="70" width="290"  alt='Buy Me a Coffee at ko-fi.com' /></a>
+ <hr/>
 </div>
 
