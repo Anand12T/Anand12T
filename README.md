@@ -81,7 +81,7 @@
 <div align="center">
   <h2 align="center">⚡ Support ⚡</h2>
   <br>
-  <a href="https://buymeacoffee.com/anandtripathi" target='_blank'><img  src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' height="70" width="290"  alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href="https://buymeacoffee.com/anandtripathi" target='_blank'><img  src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' height="60" width="240"  alt='Buy Me a Coffee at ko-fi.com' /></a>
  <hr/>
 </div>
 
