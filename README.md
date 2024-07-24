@@ -1,8 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=anand12t&label=Profile%20views&color=0e75b6&style=flat" alt="anand12t" />
 <img src="https://camo.githubusercontent.com/8e61cad30a03cd0939480a1705ee45e5e672b9e2db42b2747a772f2756911058/68747470733a2f2f676c6f62616c2e646973636f757273652d63646e2e636f6d2f627573696e657373362f75706c6f6164732f636f64656f7267666f72756d2f6f726967696e616c2f32582f352f353835306130383831333634383535356633346332396265613762366431646531356630313635352e676966" alt="gif.png" align="canter">
-
 <hr/>
-
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anand+Tripathi+!;" /></h1>
 <h2 align="center">⚡ A passionate 👨‍💻 Java Full Stack Developer from India ⚡</h2>
 <div align="center">
